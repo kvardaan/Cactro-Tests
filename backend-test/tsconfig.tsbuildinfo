@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/server.ts","./src/controllers/cache.controller.ts","./src/middlewares/cache.middleware.ts","./src/middlewares/index.ts","./src/middlewares/logging.middleware.ts","./src/routes/cache.route.ts","./src/routes/index.ts","./src/types/cache.type.ts","./src/utils/env.ts","./src/utils/prismaclient.ts"],"version":"5.7.3"}
