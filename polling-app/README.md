@@ -25,4 +25,4 @@
 
 ## Database Schema
 
-![Database Schema](/public/DB_Schema.png)
+![Database Schema](./public/DB_Schema.png)
