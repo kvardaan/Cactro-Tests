@@ -8,6 +8,7 @@ const _config = {
   githubApiUrl: process.env.GITHUB_API_URL || "https://api.github.com",
   githubUsername: process.env.GITHUB_USERNAME,
   githubAccessToken: process.env.GITHUB_ACCESS_TOKEN,
+  portfolioUrl: process.env.PORTFOLIO_URL,
 }
 
 export const config = Object.freeze(_config)
